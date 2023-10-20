@@ -1,3 +1,4 @@
+#Made By Tanuj Verma
 import mysql.connector as mysqc
 import time
 import keyboard
@@ -243,6 +244,7 @@ def pmain() :
                     pmain()
                 else :
                     print("\n")
+                    print("made By Tanuj Verma")
                     print("\U0001F607 THANK YOU,FOR YOUR SUPPORT..")
                     print("\U0001F602 BYE","\U0001F600"*5)
                     quit
